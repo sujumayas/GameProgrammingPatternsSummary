@@ -4,6 +4,7 @@ This is a summary of http://gameprogrammingpatterns.com/command.html#directions-
 
 <3 All the love <3
 
-[1. Command](command.md)
-[2. Flyweight](flyweight.md)
+- [1. Command](command.md)
+- [2. Flyweight](flyweight.md) (in progress)
+
 
